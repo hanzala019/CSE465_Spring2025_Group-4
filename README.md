@@ -8,6 +8,10 @@ Project for CSE465 on 'Nurse Care Activity Recognition' using Machine Learning.
 | Hasan Bin Omar                            | hasan.omar@northsouth.edu         | 1301769242   | [Junior Developer] (30%) |
 | Abrar Ur Alam                             | abrar.alam@northsouth.edu         | 1733387871   | [Junior Developer] (30%)|
 
+Everyone mostly had a hand in all the parts starting with dataset cleaning, combining and training a model.
+Hasan did the augmentation part and Abrar made the Network.jpg image aside from the above.
+Our senior developer, Adnan bhai, worked harder than the rest of us and guided us through out the whole process.
+
 ## Data Augmentation Technique
 
 The dataset is augmented using **noise addition, and scaling** to increase variability and improve model generalization.
