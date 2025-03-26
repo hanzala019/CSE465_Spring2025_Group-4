@@ -25,9 +25,7 @@ The dataset is augmented using **noise addition, and scaling** to increase varia
 - Helps prevent overfitting by introducing slight variations.
 - Expands the dataset without requiring additional data collection.
 ## Five fold cross validation result
-| Metric       | Value |
-|------------------|-----------|
-| Average Accuracy | 0.7903    |
-| Average Precision| 0.7767    |
-| Average Recall   | 0.7903    |
-| Average F1-Score | 0.7811    |
+| Metric                | Average Accuracy | Average Precision | Average Recall | Average F1-Score |
+|-----------------------|------------------|-------------------|----------------|------------------|
+| Value                 | 0.7903           | 0.7767            | 0.7903         | 0.7811           |
+
