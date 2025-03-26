@@ -12,20 +12,19 @@ Project for CSE465 on 'Nurse Care Activity Recognition' using Machine Learning.
 
 The dataset is augmented using **noise addition, and scaling** to increase variability and improve model generalization.
 
-### Steps:
-
 1. **Adding Noise**:  
-   - Gaussian noise (**mean = 0**, **std = 0.10**) is added to sensor readings to simulate real-world measurement variations.
+   - Gaussian noise (**mean = 0**, **std = 0.10**) is added to sensor readings.
 
 2. **Scaling**:  
    - Each sensor value is multiplied by a random scaling factor in the range **(0.94, 1.06)** to introduce slight variations in magnitude.
 
-### Benefits:
-- Improves model robustness to sensor variability.
-- Helps prevent overfitting by introducing slight variations.
-- Expands the dataset without requiring additional data collection.
+
 ## Five fold cross validation result
 | Metric                | Average Accuracy | Average Precision | Average Recall | Average F1-Score |
 |-----------------------|------------------|-------------------|----------------|------------------|
-| Value                 | 0.7903           | 0.7767            | 0.7903         | 0.7811           |
+| Value                 | 81.49            | 80.52             | 81.49          | 80.79            |
 
+
+## Future Plan
+
+For now we have only used accelerometer sensor data from user 4 only so our next plan is use all the other ones and try out approaches such as CNN or RNN to see how it compares with ANN, the one we are currently using.
