@@ -28,3 +28,4 @@ The dataset is augmented using **noise addition, and scaling** to increase varia
 ## Future Plan
 
 For now we have only used accelerometer sensor data from user 4 only so our next plan is use all the other ones and try out approaches such as CNN or RNN to see how it compares with ANN, the one we are currently using.
+# CSE465_Spring2025_Group-4
