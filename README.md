@@ -16,7 +16,7 @@ Our senior developer, Adnan bhai, worked harder than the rest of us and guided u
 ## Test result
 | Metric                | Average Accuracy | Average Precision | Average Recall | Average F1-Score |
 |-----------------------|------------------|-------------------|----------------|------------------|
-| Value                 | 74.50            | 76.20             | 74.52          | 72.20            |
+| Value                 | 74.52            | 76.17             | 74.52          | 74.24            |
 
 
 ## Dataset Link
