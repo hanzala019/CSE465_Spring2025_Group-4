@@ -12,28 +12,11 @@ Everyone mostly had a hand in all the parts starting with dataset cleaning, comb
 Hasan did the augmentation part and Abrar made the Network.jpg image aside from the above.
 Our senior developer, Adnan bhai, worked harder than the rest of us and guided us through out the whole process.
 
-## Data Augmentation Technique
 
-The dataset is augmented using **noise addition, and scaling** to increase variability and improve model generalization.
-
-1. **Adding Noise**:  
-   - Gaussian noise (**mean = 0**, **std = 0.10**) is added to sensor readings.
-
-2. **Scaling**:  
-   - Each sensor value is multiplied by a random scaling factor in the range **(0.94, 1.06)** to introduce slight variations in magnitude.
-
-
-## Five fold cross validation result
+## Test result
 | Metric                | Average Accuracy | Average Precision | Average Recall | Average F1-Score |
 |-----------------------|------------------|-------------------|----------------|------------------|
-| Value                 | 81.49            | 80.52             | 81.49          | 80.79            |
-
-
-## Future Plan
-
-For now we have only used accelerometer sensor data from user 4 only so our next plan is use all the other ones and try out approaches such as CNN or RNN to see how it compares with ANN, the one we are currently using.
-
-![Network Diagram](Network.jpg)
+| Value                 | 74.50            | 76.20             | 74.52          | 72.20            |
 
 
 ## Dataset Link
