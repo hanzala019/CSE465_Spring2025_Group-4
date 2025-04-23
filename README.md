@@ -18,7 +18,7 @@ Our senior developer, Adnan bhai, worked harder than the rest of us and guided u
 |-----------------------|------------------|-------------------|----------------|------------------|
 | Value                 | 74.52            | 76.17             | 74.52          | 74.24            |
 
-![Network Diagram](confusion.jpg)
+![Network Diagram](Final%20Project/confusion.jpg)
 
 ## Dataset Link
 [Download from Google Drive](https://drive.google.com/file/d/1PLSxD0UMmuWyphyazXXFiAq-FMOx5nJV/view?usp=sharing)
