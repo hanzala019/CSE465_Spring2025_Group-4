@@ -9,7 +9,7 @@ Project for CSE465 on 'Nurse Care Activity Recognition' using Machine Learning.
 | Abrar Ur Alam                             | abrar.alam@northsouth.edu         | 1733387871   | [Junior Developer] (30%)|
 
 Everyone mostly had a hand in all the parts starting with dataset cleaning, combining and training a model.
-Hasan did the augmentation part and Abrar made the Network.jpg image aside from the above.
+Hasan and abrar did majority of the dataset cleaning part and Jami trained the model.
 Our senior developer, Adnan bhai, worked harder than the rest of us and guided us through out the whole process.
 
 
